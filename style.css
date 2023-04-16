@@ -1,0 +1,61 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #14161f;
+    color: #fff;
+}
+
+.search-box {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.search-box input {
+    padding: 12px;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+.weather-box {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.city {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.date {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.temp {
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.temp span {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.weather {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.hi-low {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: #a9a9a9;
+}
